@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'PropertyUITests' in project 'Property' (no dependencies)
+Target 'PropertyUITests' in project 'Property'
+➜ Explicit dependency on target 'Property' in project 'Property'
+Target 'PropertyUITests' in project 'Property'
+➜ Explicit dependency on target 'Property' in project 'Property'
+Target 'PropertyTests' in project 'Property' (no dependencies)
+Target 'PropertyTests' in project 'Property'
+➜ Explicit dependency on target 'Property' in project 'Property'
+Target 'PropertyTests' in project 'Property'
+➜ Explicit dependency on target 'Property' in project 'Property'
+Target 'Property' in project 'Property' (no dependencies)
+Target 'Property' in project 'Property' (no dependencies)

@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Property' in project 'Property' (no dependencies)
+Target 'Property' in project 'Property' (no dependencies)

@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property-master.dia",
+    "emit-module-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property-master.swiftdeps"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/AddPropertyViewController.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AddPropertyViewController~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/AppDelegate.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/Model/Property.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/Property~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/PropertyDetailViewController.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyDetailViewController~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/PropertyListViewController.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyListViewController~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/PropertyModel.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/PropertyModel~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/SceneDelegate.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/ViewController.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/yonradeelimsawat/Desktop/Property/Property/WatchViewController.swift" : {
+    "const-values" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.swiftconstvalues",
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.dia",
+    "index-unit-output-path" : "/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.o",
+    "llvm-bc" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.bc",
+    "object" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.o",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController.swiftdeps",
+    "swiftmodule" : "/Users/yonradeelimsawat/Desktop/Property/DerivedData/Property/Build/Intermediates.noindex/Property.build/Debug-iphonesimulator/Property.build/Objects-normal/arm64/WatchViewController~partial.swiftmodule"
+  }
+}

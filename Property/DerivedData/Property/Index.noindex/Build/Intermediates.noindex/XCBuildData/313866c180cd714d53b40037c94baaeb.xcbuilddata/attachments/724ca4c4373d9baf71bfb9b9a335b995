@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/Property.build/Debug-maccatalyst/PropertyUITests.build/Objects-normal/arm64/PropertyUITests-master.d",
+    "diagnostics" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/Property.build/Debug-maccatalyst/PropertyUITests.build/Objects-normal/arm64/PropertyUITests-master.dia",
+    "emit-module-dependencies" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/Property.build/Debug-maccatalyst/PropertyUITests.build/Objects-normal/arm64/PropertyUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/Property.build/Debug-maccatalyst/PropertyUITests.build/Objects-normal/arm64/PropertyUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/Property.build/Debug-maccatalyst/PropertyUITests.build/Objects-normal/arm64/PropertyUITests-master.swiftdeps"
+  },
+  "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/PropertyUITests/PropertyUITests.swift" : {
+
+  },
+  "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/PropertyUITests/PropertyUITestsLaunchTests.swift" : {
+
+  }
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "address": "10 Main St, Cairns, Qld",
+        "imageName": "house1.jpg",
+        "thumbnailName": "thumbnail_house1.jpg",
+        "type": "house",
+        "price": "450,000"
+    },
+    {
+        "address": "20 Brown St, Kurranda, Qld",
+        "imageName": "house2.jpg",
+        "thumbnailName": "thumbnail_house2.jpg",
+        "type": "house",
+        "price": "550,000"
+    },
+    {
+        "address": "113 Smith St,Port Douglas, Qld",
+        "imageName": "house3.jpg",
+        "thumbnailName": "thumbnail_house3.jpg",
+        "type": "house",
+        "price": "570,000"
+    },
+    {
+        "address": "45 Oceanview Dr, Palm Cove, Qld",
+        "imageName": "house4.jpg",
+        "thumbnailName": "thumbnail_house4.jpg",
+        "type": "house",
+        "price": "720,000"
+    },
+    {
+        "address": "56 Yeti St,Edmonton, Qld",
+        "imageName": "unit1.jpg",
+        "thumbnailName": "thumbnail_unit1.jpg",
+        "type": "unit",
+        "price": "210,000"
+    },
+    {
+        "address": "88 Link St,Kewarra, Qld",
+        "imageName": "unit2.jpg",
+        "thumbnailName": "thumbnail_unit2.jpg",
+        "type": "unit",
+        "price": "370,000"
+    },
+    {
+        "address": "160 Dolphin St,Trinity Park, Qld",
+        "imageName": "unit3.jpg",
+        "thumbnailName": "thumbnail_unit3.jpg",
+        "type": "unit",
+        "price": "260,000"
+    },
+    {
+        "address": "12 Riverbend Ct, Earlville, Qld",
+        "imageName": "unit4.jpg",
+        "thumbnailName": "thumbnail_unit4.jpg",
+        "type": "unit",
+        "price": "310,000"
+    },
+    {
+        "address": "33 Moore St,Gordonavle,Qld",
+        "imageName": "land1.jpg",
+        "thumbnailName": "thumbnail_land1.jpg",
+        "type": "land",
+        "price": "560,000"
+    },
+    {
+        "address": "19 Cook St,Bentley Park, Qld",
+        "imageName": "land2.jpg",
+        "thumbnailName": "thumbnail_land2.jpg",
+        "type": "land",
+        "price": "630,000"
+    },
+    {
+        "address": "25 Greenfield Ave, Smithfield, Qld",
+        "imageName": "land3.jpg",
+        "thumbnailName": "thumbnail_land3.jpg",
+        "type": "land",
+        "price": "590,000"
+    },
+    {
+        "address": "77 Sunset Blvd, Redlynch, Qld",
+        "imageName": "land4.jpg",
+        "thumbnailName": "thumbnail_land4.jpg",
+        "type": "land",
+        "price": "680,000"
+    }
+]

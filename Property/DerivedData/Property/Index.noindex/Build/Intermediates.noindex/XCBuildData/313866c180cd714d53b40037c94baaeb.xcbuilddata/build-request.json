@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "78f25c40ef7c1f994b5acd7152b582d5aa0812cb232fd6721c3730b767cd258e"
+    },
+    {
+      "guid" : "78f25c40ef7c1f994b5acd7152b582d50479ea63c888919a863e7cbe2712ba83"
+    },
+    {
+      "guid" : "78f25c40ef7c1f994b5acd7152b582d5f7697c0251170393253fa8311fcd6e0d"
+    }
+  ],
+  "containerPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/Property.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Build/Products",
+      "pchPath" : "/Users/yonradeelimsawat/Desktop/CQU/Term3 2024/APP/Assignment4/Property/DerivedData/Property/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
