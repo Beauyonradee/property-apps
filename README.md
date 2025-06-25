@@ -53,6 +53,7 @@ The app displays a list of real estate properties and allows users to view detai
   - Features implemented and limitations
   - Testing notes and devices used
   - Screenshots and a recorded demo video
-- Demo
-  - ![🎥Demo-preview](./docs/DemoLiveS.mp4)
+- 🎥 Demo
+<p align="center">
+  <img src="./docs/demo.gif" width="300" alt="App Demo"> </p>
 
